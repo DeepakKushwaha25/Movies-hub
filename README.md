@@ -1,4 +1,4 @@
-thumb.png
+<img src="https://github.com/DeepakKushwaha25/Movies-hub/blob/main/thumb.png"/> <img 
 
 
 ## Technology Stack:
