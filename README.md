@@ -17,7 +17,7 @@
 
 - Fork and Clone the repo using
 ```
-$ git clone https://github.com/DeepakKushwaha25/krishi-sadhan.git
+$ git clone https://github.com/DeepakKushwaha25/Movies-hub.git
 ```
 - Install the Dependencies from `npm`
 ```
